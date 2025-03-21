@@ -98,15 +98,18 @@
   >>>> - 점검을 위한 **노트 및 노트북** 상시 휴대 필요
   >>>> - 추후 취합시 해당 점검 내용이 어느 매장에 대한 것인지 **재확인** 필요
   >> 2. 점검시 일정 **가이드라인**의 **부재**로 슈퍼바이저의 **경험**에 따라 점검의 퀄리티가 **천차만별**
-  >> 3. 이에 따라, **모바일 환경**에서 **점검을 진행**하게 하며 이를 **레코드로 저장**해 **가맹점 레코드와 연결**. 동시에 **가이드**를 **마련**해 **일정 수준의 퀄리티 보장**
-  >> 4. 시연 영상(소리 주의)
-  >> - ![모바일](https://drive.google.com/file/d/1hJ2U5WNiq92T1t4CjIRHJjBqD5KDY98d/view?usp=drive_link)
+  >> 3. 이에 따라, **모바일 환경**에서 **점검을 진행**하게 하며 이를 **레코드로 저장**해 **가맹점 레코드와 연결**.
+  >> 4. 동시에 **가이드**를 **마련**해 **일정 수준의 퀄리티 보장**
+  >> 5. 시연 영상(소리 주의)
+  >> - [![영상 제목](https://img.youtube.com/vi/tx21vy3e7c8/1.jpg)](https://youtube.com/shorts/tx21vy3e7c8)
+
 
 >📌 **UI & UX 향상 및 필드 수정 제한**
   >> 1. 슈퍼바이저의 업무 중 정기 점검의 결과는 대상 가맹점을 평가하는 요소 중 하나로, 그 중요도가 상당함.
-  >> 2. 따라서 **해당 필드의 수정**을 TRIGGER를 통해 막고, 추후 결과를 한 눈에 보기 위해 **SCREEN FLOW** 도입
+  >> 2. 동시에 정기 점검의 **날짜를 확정함에** 있어 **기존의 필드 수정은 수정-수정항목 입력-저장 버튼을 입력**해야 하고, **대상 가맹점주의 연락처와 이름**을 한번에 **볼 수 없음**.
+>  > 3. 따라서 **해당 레코드의 필드의 수정**을 TRIGGER를 통해 제한하고, 필요한 필드의 수정의 UX측면 향상과, 추후 결과를 한 눈에 보기 위해 **SCREEN FLOW** 도입
   >> 4. 시연 영상
-  >> - ![점검결과 SCR](https://drive.google.com/file/d/1r0DrRk_OD1Nm149XreNpNJviGTda0U61/view?usp=drive_link)
+  >> - [![영상 제목](https://img.youtube.com/vi/dpJvACHwUFY/1.jpg)](https://youtu.be/dpJvACHwUFY)
 
 >📌 **재계약 기회 생성 자동화**
   >> 1. 외식 프랜차이즈 사업에선 신규 유입만큼 기존 계약을 갱신하는 것도 중요함
@@ -114,7 +117,8 @@
   >> 3. 먼저 **모든 CONTRACT 레코드**를 **확인**해 **계약 만료일이 6개월 이내**고, **기회가 미생성 되었다면 기회 생성**
   >> 4. **효율적인 재계약**을 위해, **재계약 기회의 OWNER**는 **영업담당자**로 전환. **슈퍼바이저**는 **기회 팀에 합류**
   >> 5. 시연 영상
-  >> - ![재계약](https://drive.google.com/file/d/1eYd-ktThFz5GBX5k1HE4mCjuJ7fLCedS/view?usp=sharing)
+  >> - [![영상 제목](https://img.youtube.com/vi/m4PBwBlAvv0/1.jpg)](https://youtu.be/m4PBwBlAvv0)
+
   >>> **유지보수성**
 >  >> 1. 현재 프로젝트에선 CONTRACT 레코드의 수가 많지 않아 SCHEDULE FLOW로도 구현이 가능함
 >  >> 2. 그러나 추후 사업이 확장되고, 한번에 확인해야 하는 CONTRACT 레코드의 수가 많아짐에 따라 GOVERNOR LIMIT 위험 상승
@@ -127,7 +131,7 @@
 >4. 이와 별개로, 슈퍼바이저에 대한 불만 사항 처리를 위해 CASE-ORIGIN을 올본 신문고로 설정한 전역 WEB-TO-CASE 작업 생성
 >5. 올본신문고를 통해 들어온 CASE는 슈퍼바이저의 팀장이 OWNER가 됨.
 >6. 시연 영상
-> - ![OMNI](https://drive.google.com/file/d/12fppNvZj4eAlmjB4VsYQIKsnAFwwYFxQ/view?usp=drive_link)
+> - [![영상 제목](https://img.youtube.com/vi/LBcoDFRPDtk/1.jpg)](https://youtu.be/LBcoDFRPDtk)
 
 **2-3-2. 이외 다수**
   > 1. **CONTRACT** 객체 레코드가 ACTIVATED 될 시 **가맹준비 객체 레코드 생성 FLOW 구현**
@@ -147,7 +151,7 @@
  
 ✅ 가맹점 운영의 표준화로 **고객 만족도 향상**  
 
-✅  CRM 시스템 구축을 통한 **가맹점과 본사 간, 내부 직원간 원활한 상호작용**  
+✅  CRM 시스템 구축을 통한 **가맹점과 본사, 그리고 내부 직원 사이의 원활한 상호작용**  
 
 ✅ **업무 프로세스 자동화**를 통한 운영 효율성 증대  
 
