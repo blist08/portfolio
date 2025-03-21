@@ -140,10 +140,12 @@
   > 4. 매장점검이 끝나면 **SURVEY 발송** 및 해당 **SURVEY INVITATION을 ACCOUNT와 매장점검 레코드에 연결 FLOW 구현**
   > 5. 매장점검이 끝나면 다음 **점검예상일**이 **계약 기간 내**라면 **자동 정기 점검 생성 FLOW 구현**
   > 6. **B2C CASE 발생**시 CS 담당자 판단 하에 **ACCOUNT(가맹점)의 담당 슈퍼바이저**가 **CASE OWNER**가 되게 하는 **ACTION(FLOW) 구현**
-  > 6-1. 슈퍼바이저가 CASE OWNER 될 시, **매장점검의 긴급점검 RECORD TYPE 레코드 생성 FLOW 구현** 
+  > 7. 슈퍼바이저가 CASE OWNER 될 시, **매장점검의 긴급점검 RECORD TYPE 레코드 생성 FLOW 구현** 
   > 8. 신규가맹점 OPPTY에서 **STAGE 진행**시 특정 필드가 미입력이고 다음 STAGE로 넘어갈 때 **해당 필드 팝업 LWC 개발**
   > 9. ACCOUNT(가맹점)에 대해 **고객360**을 제공하기 위해, **TIME WARP 도입 및 시나리오에 맞게 수정**
-  > 9-1. 객체 중 **ACCOUNT PAGE LAYOUT**에 **필요**한데 없는 경우 필요성에 따라 **LOOK-UP 혹은 MASTER-DETAIL** 관계 설정
+  > 10. 객체 중 **ACCOUNT PAGE LAYOUT**에 **필요**한데 없는 경우 필요성에 따라 **LOOK-UP 혹은 MASTER-DETAIL** 관계 설정
+  > 11. **서베이 객체**와 **커스텀 객체**를 연결하기 위한 **FLOW 구현** 및 **REPORT TYPE 생성**
+  > 12. **KPI**에 직결되는 **대시보드 생성**을 위한 **REPORT 작성**
 ---
 
 ## 3. 기대 효과  
