@@ -1,4 +1,4 @@
-![로고](참조용/PPT/ALLBORN검은로고.png)
+![로고](https://github.com/blist08/portfolio/blob/main/참조용/PPT/ALLBORN검은로고.png)
 
 ### 한줄 요약: 정보 공유와 자동화를 통해 내부 직원의 업무 생산성을 향상 시켜, 가맹점을 보다 체계적으로 관리해, 최종 소비자의 선택을 이끌어 신규 가맹 유인 및 기존 가맹 재계약에 용이하게!
 
@@ -17,7 +17,7 @@
 | **ADMIN** | 전석조 |  
 
 ###  1-2. 프로젝트 일정 
-- ![일정](참조용/PPT/슬라이드9.JPG)
+- ![일정](https://github.com/blist08/portfolio/blob/main/참조용/PPT/슬라이드9.JPG)
 
 ---
 
@@ -26,7 +26,7 @@
 - **업종:** 외식 프랜차이즈업
 - **레퍼런스 기업명:** 더본
 - **주요 PAIN POINT:**  
-  - ![선정배경](참조용/PPT/슬라이드6.JPG)  
+  - ![선정배경](https://github.com/blist08/portfolio/blob/main/참조용/PPT/슬라이드6.JPG)  
 - 가맹점주의 이탈... 하지만 세부적으로 본다면:
 > - 가맹점에 대한 정보를 직원 간 미공유으로 관리의 질 하락
 > - 비체계적인 내부 시스템으로 인해 업무가 비효율적이고 과다함
@@ -45,22 +45,22 @@
 #### 1-4-2. **내부 고객**  
 | 역할 | 이미지 |  
 |---|---|  
-| **가맹점주** | ![가맹점주](참조용/PPT/슬라이드29.JPG) |  
-| **영업 담당자** | ![영업담당자](참조용/PPT/슬라이드17.JPG) |  
-| **CS 담당자** | ![CS담당자](참조용/PPT/슬라이드27.JPG) |  
-| **슈퍼바이저** | ![슈퍼바이저](참조용/PPT/슬라이드23.JPG) |  
+| **가맹점주** | ![가맹점주](https://github.com/blist08/portfolio/blob/main/참조용/PPT/슬라이드29.JPG) |  
+| **영업 담당자** | ![영업담당자](https://github.com/blist08/portfolio/blob/main/참조용/PPT/슬라이드17.JPG) |  
+| **CS 담당자** | ![CS담당자](https://github.com/blist08/portfolio/blob/main/참조용/PPT/슬라이드27.JPG) |  
+| **슈퍼바이저** | ![슈퍼바이저](https://github.com/blist08/portfolio/blob/main/참조용/PPT/슬라이드23.JPG) |  
 
 ---
 
 ## 1-5. 시스템 구조  
 
 ### 1-5-1. ERD  
-- ![ERD](참조용/PPT/슬라이드10.JPG)  
+- ![ERD](https://github.com/blist08/portfolio/blob/main/참조용/PPT/슬라이드10.JPG)  
 - 빨간 선은 Master-Detail 관계
 
 ### 1-5-2. 사용 기술 및 도구  
 - **CRM:** Salesforce  
-  ![활용재료](참조용/PPT/슬라이드11.JPG)  
+  ![활용재료](https://github.com/blist08/portfolio/blob/main/참조용/PPT/슬라이드11.JPG)  
 - **버전 관리:** GitHub  
 - **협업 툴:** 노션, 지라, 미로, 뷰티풀AI  
 
@@ -228,7 +228,7 @@
 ---
 
 ## 3. 기대 효과  
- ![기대효과](참조용/PPT/슬라이드32.JPG)  
+ ![기대효과](https://github.com/blist08/portfolio/blob/main/참조용/PPT/슬라이드32.JPG)  
  
 ✅ 가맹점 운영의 표준화로 **고객 만족도 향상**  및 **매출 증대**
 
